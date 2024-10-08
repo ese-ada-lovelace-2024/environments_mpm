@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: envtest
+Version: 0.1.0
+Summary: Playing with virtual environments
+Author: Imperial College London
+Author-email: rhodri.nelson@imperial.ac.uk
+
+Playing with virtual environments.
